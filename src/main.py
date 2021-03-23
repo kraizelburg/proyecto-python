@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 # esto es un comentario
 def suma(a,b):
-  resultado = a + b +10
+  resultado = a + b + 20
   return a+b + resultado
 
 # este es el endpoint
